@@ -9,7 +9,6 @@
 
         app.UseStaticFiles();
 
-
         app.MapGet("/", () => "Hello World!");
 
         app.MapGet("/health", () => "server ok");
