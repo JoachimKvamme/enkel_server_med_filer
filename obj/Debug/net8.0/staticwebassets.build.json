@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "bxOAVybBtC+j4uA5efLs9WTpq4mKOa8nY2opVzARfJ4=",
+  "Source": "distribuerte_systemer",
+  "BasePath": "_content/distribuerte_systemer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "distribuerte_systemer\\wwwroot",
+      "Source": "distribuerte_systemer",
+      "ContentRoot": "C:\\Users\\joach\\Desktop\\distribuerte_systemer\\wwwroot\\",
+      "BasePath": "_content/distribuerte_systemer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\joach\\Desktop\\distribuerte_systemer\\wwwroot\\index.html",
+      "SourceId": "distribuerte_systemer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joach\\Desktop\\distribuerte_systemer\\wwwroot\\",
+      "BasePath": "_content/distribuerte_systemer",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\joach\\Desktop\\distribuerte_systemer\\wwwroot\\script.js",
+      "SourceId": "distribuerte_systemer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joach\\Desktop\\distribuerte_systemer\\wwwroot\\",
+      "BasePath": "_content/distribuerte_systemer",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\joach\\Desktop\\distribuerte_systemer\\wwwroot\\style.css",
+      "SourceId": "distribuerte_systemer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\joach\\Desktop\\distribuerte_systemer\\wwwroot\\",
+      "BasePath": "_content/distribuerte_systemer",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

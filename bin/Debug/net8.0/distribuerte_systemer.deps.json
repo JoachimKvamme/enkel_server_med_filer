@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "distribuerte_systemer/1.0.0": {
+        "runtime": {
+          "distribuerte_systemer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "distribuerte_systemer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
